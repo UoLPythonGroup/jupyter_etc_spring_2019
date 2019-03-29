@@ -10,7 +10,7 @@ Notes for the programme:
 
 https://hackmd.io/WnImbwPbRE6LNUwzfopxYw
 
-Tutorial for using git without the Desktop app:
+Tutorial for using git without the Desktop app, and using command line instead:
 
 https://www.atlassian.com/git/tutorials/setting-up-a-repository
 
