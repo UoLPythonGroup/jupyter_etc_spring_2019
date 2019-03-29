@@ -1,6 +1,12 @@
+Our group repository:
+
 https://github.com/UoLPythonGroup/jupyter_etc_spring_2019
 
+Andy Evan's excellent tutorial:
+
 https://www.geog.leeds.ac.uk/courses/computing/practicals/general/github/index.html
+
+Notes for the programme:
 
 https://hackmd.io/WnImbwPbRE6LNUwzfopxYw
 
