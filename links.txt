@@ -6,11 +6,11 @@ Andy Evan's excellent tutorial:
 
 https://www.geog.leeds.ac.uk/courses/computing/practicals/general/github/index.html
 
-Notes for the programme: add some stuff 
+Notes for the programme:
 
 https://hackmd.io/WnImbwPbRE6LNUwzfopxYw
 
-Tutorial for using git without the Desktop app:
+Tutorial for using git without the Desktop app, and using command line instead:
 
-https://www.atlassian.com/git/tutorials/setting-u
+https://www.atlassian.com/git/tutorials/setting-up-a-repository
 
