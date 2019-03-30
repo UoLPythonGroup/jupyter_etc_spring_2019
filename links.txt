@@ -12,5 +12,5 @@ https://hackmd.io/WnImbwPbRE6LNUwzfopxYw
 
 Tutorial for using git without the Desktop app, and using command line instead:
 
-https://www.atlassian.com/git/tutorials/setting-up-a-repository
+https://www.atlassian.com/git/tutorials/setting-up-a-repository 
 
